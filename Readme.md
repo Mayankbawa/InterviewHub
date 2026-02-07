@@ -118,6 +118,5 @@ dotnet ef database update
 - Mobile-friendly interface
 
 ## Author
-- Your Name  
-- GitHub: [yourgithublink]  
-- LinkedIn: [yourlinkedinlink]
+- Mayank Khali
+- 
