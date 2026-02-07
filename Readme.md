@@ -119,4 +119,3 @@ dotnet ef database update
 
 ## Author
 - Mayank Khali
-- 
